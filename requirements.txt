@@ -1,12 +1,5 @@
-asgiref==3.7.2
-beautifulsoup4==4.12.3
-bs4==0.0.2
-Django==5.0
-django-cors-headers==4.3.1
-djangorestframework==3.14.0
-humanfriendly==10.0
-nudenet==3.0.8
-numpy==1.26.4
-opencv-python-headless==4.9.0.80
-requests==2.31.0
-sqlparse==0.4.4
+django>=3.2.10
+djangorestframework>=3.12.4
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+django-cors-headers>=3.8.0
